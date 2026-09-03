@@ -1,7 +1,7 @@
 class Ccms < Formula
   desc "Agentic CLI Tool"
   homepage "https://github.com/ReebanAustrive/AI-Assitant-Micro-Saas"
-  version "1.0.0"
+  version "2.1.2"
 
   on_linux do
     url "https://github.com/ReebanAustrive/AI-Assitant-Micro-Saas/releases/download/v1.0.0/ccms-ubuntu-latest.zip"
