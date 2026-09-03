@@ -5,7 +5,7 @@ class Ccms < Formula
 
   on_linux do
     url "https://github.com/ReebanAustrive/AI-Assitant-Micro-Saas/releases/download/v2.1.3/ccms-ubuntu-latest.zip"
-    sha256 "c04374b7a9b1e96bc1a2e5fb076ab426702c3fa855d03e8cb7a052f81bd78da3"
+    sha256 "7058344cbd044abcfd90889462b99a4bff6ae541e50c3ac141c54da98554030c"
   end
 
   def install
